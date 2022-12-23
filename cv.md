@@ -1,7 +1,10 @@
-# **Andrey Shitov**
-'Contacts: 
+#**Andrey Shitov**
+**Andrey Shitov**
+=========
 
-mob.: + 79877450529'
+Contacts: 
+
+mob.: + 79877450529
 
 ## "Summary"
 - targets:
