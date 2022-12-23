@@ -1,7 +1,4 @@
-#**Andrey Shitov**
-**Andrey Shitov**
-=========
-
+# **Andrey Shitov**
 Contacts: 
 
 mob.: + 79877450529
