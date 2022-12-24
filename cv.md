@@ -1,11 +1,13 @@
 # **Andrey Shitov**
 <img src="IMG_20200719_120437.jpg" alt="arrow" width="200" height="300">
 
-Contacts: 
+## Contacts: 
 
 mob.: + 79877450529
 
 [Here is the link on GitHub account](https://github.com/AndreyShitov)
+
+RSS Discord Server nickname: *andrey1990#6614*
 
 ## Summary
 *Targets:*
@@ -15,10 +17,10 @@ mob.: + 79877450529
     3. strong motivation to master JS technology for further growth in IT
 
 
-Code example:
+*Code example:*
 ```
 # **Andrey Shitov**
-Contacts: 
+## **Contacts:** 
 
 mob.: + 79877450529
 
