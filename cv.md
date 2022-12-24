@@ -1,5 +1,5 @@
 # **Andrey Shitov**
-pasteImage.IMG_20200719_120437.jpg
+paste Image.IMG_20200719_120437.jpg
 Contacts: 
 
 mob.: + 79877450529
