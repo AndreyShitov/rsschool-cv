@@ -1,5 +1,5 @@
 # **Andrey Shitov**
-<img src="IMG_20200719_120437.jpg" alt="arrow" width="200" height="200">
+<img src="IMG_20200719_120437.jpg" alt="arrow" width="200" height="300">
 
 Contacts: 
 
