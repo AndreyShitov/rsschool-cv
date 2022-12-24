@@ -24,5 +24,5 @@ mob.: + 79877450529
     3. strong motivation to master JS technology for further growth in IT
 ```
 ### **Background**
-'Nizhny Novgorod State Linguistics University
-Diploma of Interpreter (English and French languages)'
+Nizhny Novgorod State Linguistics University
+Diploma of Interpreter (English and French languages)
