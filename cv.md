@@ -1,4 +1,5 @@
 # **Andrey Shitov**
+pasteImage.IMG_20200719_120437.jpg
 Contacts: 
 
 mob.: + 79877450529
@@ -6,7 +7,7 @@ mob.: + 79877450529
 [Here is the link on GitHub account](https://github.com/AndreyShitov)
 
 ## Summary
-*targets:*
+*Targets:*
 
     1. middle JS developer by the end of 2024
     2. high-level English-speaking, writing and reading skills (master degreee in linguistics, Interpreter background)
